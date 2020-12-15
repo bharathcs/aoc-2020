@@ -10,7 +10,8 @@
 
 ## Keep Track:
 
-D4 - Tried Python Logging module and learnt more with JavaScript
-D3 - More Work on C
-D2 - Refresher on C
-D1 - Tried JavaScript
+1. Tried JavaScript
+2. Refresher on C
+3. More Work on C
+4. Tried Python Logging module and learnt more with JavaScript
+5. Did more C, left implementing sort in C for later
