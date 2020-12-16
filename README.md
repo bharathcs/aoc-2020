@@ -15,3 +15,4 @@
 3. More Work on C
 4. Tried Python Logging module and learnt more with JavaScript
 5. Did more C, left implementing sort in C for later
+6. Did some JavaScript
