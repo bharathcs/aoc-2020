@@ -17,3 +17,4 @@
 5. Did more C, left implementing sort in C for later
 6. Did some JavaScript
 7. Learnt Prolog, solved part 1 with it. Stuck at part 2
+8. Did part 1 and 2 in C surprisingly fast!
