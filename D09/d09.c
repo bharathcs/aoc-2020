@@ -3,13 +3,13 @@
 
 #define LEN_PREAMBLE 25
 
-double readNum(FILE * fp);
-int digitify(char c);
-int checkNum(int number, double arr[]);
 int part1(void);
 int part2(int invalidNum);
 double* readFileIntoStorage(void);
+double readNum(FILE * fp);
+int digitify(char c);
 void show(double arr[], int l);
+int checkNum(int number, double arr[]);
 
 int main(void) {
     int invalidNum = part1();
